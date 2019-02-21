@@ -1,0 +1,11 @@
+.CalenderCanvas_rectangle {
+    background-color: #3399FF;
+    width: 50vw;
+    height: 70vh;
+    display: grid;
+    grid-template-columns: 14.28% 14.28% 14.28% 14.28% 14.28% 14.28% 14.28%;
+    overflow-wrap: break-word;
+    -webkit-box-shadow: 3px 6px 13px -1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 3px 6px 13px -1px rgba(0,0,0,0.75);
+    box-shadow: 3px 6px 13px -1px rgba(0,0,0,0.75);
+}

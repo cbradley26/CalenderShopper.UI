@@ -1,0 +1,10 @@
+.CalenderDate_rectangle {
+    border-bottom: 1px solid grey;
+}
+
+.CalenderDate_day {
+    color: white;
+    font-size: 65px;
+    line-height: 100%;
+    text-align: center;
+}
